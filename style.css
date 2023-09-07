@@ -36,6 +36,6 @@ body {
 .result {
     margin: 2rem 0 0 2rem;
     text-transform: capitalize;
-    letter-spacing: 1px;
-
+    letter-spacing: .5px;
+    line-height: 2rem;
 }
